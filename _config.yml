@@ -124,7 +124,7 @@ author:
   links:
     - label: "test"
       icon: "fas fa-fw fa-square-envelope"
-      #url: "mailto:your.name@email.com"
+      url: "mailto:your.name@email.com"
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
