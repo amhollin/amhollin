@@ -120,7 +120,10 @@ author:
   location         : #"Somewhere"
   email            : "amber.hollinger@anu.edu.au"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
-  links:
+  github: TakeTwiceDailey
+  orcid: http://orcid.org/0000-0003-2488-3461
+  google_scholar: https://scholar.google.com/citations?user=mPNwR5sAAAAJ&hl=en
+  #links:
     #- label: "Email"
     #  icon: "fas fa-fw fa-square-envelope"
       # url: "mailto:your.name@email.com"
