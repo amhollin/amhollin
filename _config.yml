@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "catppuccin_latte", "catppuccin_mocha"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "catppuccin_latte", "catppuccin_mocha"
 
 # Site Settings
 locale                   : "en-US"
@@ -118,7 +118,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Local Universe Cosmologist & Hobby Photographer"
   location         : #"Somewhere"
-  email            : "amber.hollinger@anu.edu.au"
+  #email            : "amber.hollinger@anu.edu.au"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   google_scholar: https://scholar.google.com/citations?user=mPNwR5sAAAAJ&hl=en
   links:
