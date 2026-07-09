@@ -117,8 +117,8 @@ author:
   name             : "Dr. Amber M Hollinger"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Local Universe Cosmologist & Hobby Photographer"
-  location         : "ANU"
-  #email            : "amber.hollinger@anu.edu.au"
+  location         : #"Somewhere"
+  email            : "amber.hollinger@anu.edu.au"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   google_scholar: https://scholar.google.com/citations?user=mPNwR5sAAAAJ&hl=en
   links:
