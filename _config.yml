@@ -117,15 +117,14 @@ author:
   name             : "Dr. Amber M Hollinger"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Local Universe Cosmologist & Hobby Photographer"
-  location         : #"Somewhere"
-  email            : "amber.hollinger@anu.edu.au"
+  location         : "ANU"
+  #email            : "amber.hollinger@anu.edu.au"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
-  github: TakeTwiceDailey
   google_scholar: https://scholar.google.com/citations?user=mPNwR5sAAAAJ&hl=en
   links:
-    #- label: "Email"
-    #  icon: "fas fa-fw fa-square-envelope"
-      # url: "mailto:your.name@email.com"
+    - label: "amber.hollinger@anu.edu.au""
+      icon: "fas fa-fw fa-square-envelope"
+      url: "mailto:amber.hollinger@anu.edu.au"
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
