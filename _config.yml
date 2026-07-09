@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "catppuccin_latte", "catppuccin_mocha"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "catppuccin_latte", "catppuccin_mocha"
 
 # Site Settings
 locale                   : "en-US"
@@ -121,27 +121,26 @@ author:
   email            : "amber.hollinger@anu.edu.au"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   github: TakeTwiceDailey
-  orcid: http://orcid.org/0000-0003-2488-3461
   google_scholar: https://scholar.google.com/citations?user=mPNwR5sAAAAJ&hl=en
-  #links:
+  links:
     #- label: "Email"
     #  icon: "fas fa-fw fa-square-envelope"
       # url: "mailto:your.name@email.com"
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-   # - label: "Twitter"
-   #   icon: "fab fa-fw fa-square-x-twitter"
-      # url: "https://twitter.com/"
+    - label: "Google Scholar"
+      icon: "fab fa-brands fa-google-scholar"
+      url: "https://scholar.google.com.au/citations?view_op=list_works&hl=en&user=H9XkW4wAAAAJ"
     #- label: "Facebook"
     #  icon: "fab fa-fw fa-square-facebook"
       # url: "https://facebook.com/"
-    #- label: "GitHub"
-    #  icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    #- label: "Instagram"
-    #  icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
+    - label: "ORCiD"
+      icon: "fab fa-brands fa-orcid"
+      url: "https://orcid.org/0009-0008-6499-5015"
 
 # Site Footer
 footer:
